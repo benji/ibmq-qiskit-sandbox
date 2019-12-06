@@ -35,11 +35,11 @@ q_2: |0>──────░──────┤ X ├────────
  c_2: 0 ══════════════════════════════════════════════╩═
  ```
 
-When q_0 is NOT flipped (=0), then q_2 (measured at c_2) is always 0:
-Total count for 00 and 11 are: {'010': 253, '000': 243, '001': 243, '011': 261}
+When q_0 is NOT flipped (=0), then q_2 (measured at c_2) is always 0:  
+Total count for 00 and 11 are: {'010': 253, '000': 243, '001': 243, '011': 261}  
 (First bit is c_2)
 
-When q_0 is flipped (=1), then q_2 is always 1:
+When q_0 is flipped (=1), then q_2 is always 1:  
 Total count for 00 and 11 are: {'100': 269, '111': 246, '110': 242, '101': 243}
 
 **The value of q_0 has been reflected to q_2.**
